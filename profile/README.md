@@ -1,5 +1,8 @@
-## Hi there 👋
+# Dark Vibrance
 
+
+## Yo
+Making a fun and simple to use Color Theme Accross multiple platforms 🙌
 <!--
 
 **Here are some ideas to get you started:**
